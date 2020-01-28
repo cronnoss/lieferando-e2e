@@ -1,0 +1,16 @@
+node_modules/
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+.idea
+
+cypress/videos/
+cypress/screenshots/
